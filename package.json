@@ -1,15 +1,26 @@
 {
-  "name": "sample-nodejs-project",
+  "name": "my-npm-project",
   "version": "1.0.0",
-  "description": "A sample Node.js project",
+  "description": "A sample npm project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo 'Error: no test specified' && exit 1"
   },
   "author": "Your Name",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "license": "MIT"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
