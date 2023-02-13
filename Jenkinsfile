@@ -1,4 +1,4 @@
-#File: Jenkinsfile
+/*File: Jenkinsfile*/
 pipeline {
     agent any
     stages {
