@@ -1,4 +1,4 @@
-# My NPM Project
+# jenkins-pipeline-nodejsample
 
 A simple npm project to get started with jenkins and docker.
 
